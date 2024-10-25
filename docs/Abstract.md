@@ -4,7 +4,7 @@ id: abstract
 title: Abstract
 ---
 
-# 🌐 ETN Ecosystem Abstract
+# 🌐 ETN Ecosystem Abstract1
 
 Welcome to the ETN Ecosystem documentation! 🚀 The ETN Ecosystem is a decentralized, community-driven platform powered by the $ETN token, designed to bring together various innovative services under one roof. From domain registration 🏷️ and web hosting 🖥️ to online learning 🎓 and secure payments 💸, the ETN Ecosystem is a one-stop solution for blockchain enthusiasts, developers, and businesses alike.
 
